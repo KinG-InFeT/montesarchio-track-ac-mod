@@ -1,0 +1,22 @@
+{
+  "name": "Pista Caudina",
+  "description": "Circuito kart Pista Caudina di Montesarchio (BN), Campania. Tracciato tecnico con 9 curve su 860 metri.",
+  "tags": [
+    "circuit",
+    "kart",
+    "italy",
+    "short"
+  ],
+  "geotags": [
+    "41.0614",
+    "14.6544"
+  ],
+  "country": "Italy",
+  "city": "Montesarchio",
+  "length": "860",
+  "width": "8-8",
+  "pitboxes": "10",
+  "run": "clockwise",
+  "author": "Bros on Trucks Team",
+  "version": "1.3.0"
+}
