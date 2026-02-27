@@ -1,12 +1,40 @@
 {
+  "slug": "pista_caudina",
+  "layouts": {
+    "reverse": false
+  },
   "camera": {
     "yaw": 86.7,
-    "pitch": 42.900000000000006,
-    "distance": 238.79923640534565,
-    "target": [
-      0.0,
-      0.7250000238418579,
-      0.0
-    ]
+    "pitch": 42.9,
+    "distance": 238.8,
+    "target": [0.0, 0.725, 0.0]
+  },
+  "geometry": {
+    "road_width": 7.5,
+    "kerb_width": 1.0,
+    "grass_width": 2.0,
+    "wall_height": 1.5,
+    "wall_thickness": 1.0,
+    "ground_tile_size": 30.0
+  },
+  "ai_line": {
+    "default_speed": 80.0,
+    "min_corner_speed": 40.0
+  },
+  "surfaces": {
+    "road_friction": 0.97,
+    "kerb_friction": 0.93,
+    "grass_friction": 0.60
+  },
+  "info": {
+    "name": "Pista Caudina",
+    "city": "Montesarchio",
+    "province": "BN",
+    "region": "Campania",
+    "country": "Italy",
+    "length": "860",
+    "pitboxes": "10",
+    "direction": "clockwise",
+    "geotags": ["41.0614", "14.6544"]
   }
 }
